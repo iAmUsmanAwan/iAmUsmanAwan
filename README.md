@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iAmUsmanAwan
-- 👀 I’m interested in Frontend Web Development.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on Frontend projects.
+- 👀 I’m interested in Full Stack Web Development.
+- 🌱 I’m currently learning Javascript and Php.
+- 💞️ I’m looking to collaborate on Web Based projects.
 - 📫 How to reach me : muhammadusmanawan88@gmail.com
         
 
