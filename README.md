@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iAmUsmanAwan
+- 👋 Hi, I’m Usman
 - 👀 I’m interested in Full Stack Web Development.
 - 🌱 Learning Everyday.
 - 💞️ I’m looking to collaborate on Web Based projects.
