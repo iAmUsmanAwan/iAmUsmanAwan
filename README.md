@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Usman
 - 👀 I’m interested in Full Stack Web Development.
 - 🌱 Learning Everyday.
-- 💞️ I’m looking to collaborate on Web Based projects.
+- 💞️ I’m looking to collaborate on Web Based Projects.
 - 📫 How to reach me : muhammadusmanawan88@gmail.com
 
 ## Currently working on
