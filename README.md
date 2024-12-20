@@ -34,7 +34,8 @@ Here are some of the technologies I've worked with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </div>
 
-    
+  ![Snake animation](https://github.com/iAmUsmanAwan/iAmUsmanAwan/blob/output/github-contribution-grid-snake.svg)
+ 
 
 <!---
 iAmUsmanAwan/iAmUsmanAwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
