@@ -1,11 +1,8 @@
   <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">  Hi, I’m Usman   ✨
 
-<!-- - 👀 I’m interested in Full Stack Web Development.  -->
 
 - 🌱 Learning Everyday.
-
 - 💞️ I’m looking to collaborate on Web Based Projects.
-
 - 📫 How to reach me : muhammadusmanawan88@gmail.com
 
 ## Currently working on
