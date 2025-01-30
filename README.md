@@ -9,6 +9,10 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ <!--
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+ -->
 
 
 ## Skills
@@ -32,6 +36,8 @@ Here are some of the technologies I've worked with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@6910f0503efdd315c8f9b858234310c06e04d9c0/icons/reactrouter/reactrouter-original.svg" alt="reactrouter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/appwrite/appwrite-original.svg" alt="appwrite" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
 </div>
 
  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
