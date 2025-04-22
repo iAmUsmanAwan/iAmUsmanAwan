@@ -2,7 +2,7 @@
 
 
 - 🌱 Learning Everyday.
-- 💞️ I’m looking to collaborate on Web Based Projects.
+- 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me : muhammadusmanawan88@gmail.com
 
 ## Currently working on
