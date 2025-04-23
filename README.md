@@ -41,7 +41,9 @@ Here are some of the technologies I've worked with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
 </div>
 
- ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ <!--  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)    -->
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
   <!--    <div>
   <img alt="my contributions" src="https://raw.githubusercontent.com/iam-weijie/iam-weijie/output/github-contribution-grid-snake.svg" />
